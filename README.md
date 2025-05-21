@@ -6,7 +6,9 @@ A beautiful and responsive Flutter application that displays weather forecast da
 
 ## 📱 App Preview
 
-![App Screenshot](assets/preview.png) 
+![App Screenshot](assets/home_ui.png) 
+![App Screenshot](assets/reload_ui.png) 
+
 
 ---
 
