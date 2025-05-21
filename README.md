@@ -5,10 +5,10 @@ A beautiful and responsive Flutter application that displays weather forecast da
 ---
 
 ## 📱 App Preview
-<h2>📱 App Preview</h2>
 
 <p align="center">
   <img src="assets/home_ui.png" alt="App Screenshot" width="300">
+  <p width='50'> </p>
   <img src="assets/reload_ui.png" alt="App Screenshot" width="300">
   
 </p>
