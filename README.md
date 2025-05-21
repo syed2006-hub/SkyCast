@@ -9,7 +9,7 @@ A beautiful and responsive Flutter application that displays weather forecast da
 <p align="center">
   <img src="assets/home_ui.png" alt="App Screenshot" width="300">
 
-  &nbsp;&nbsp; 
+  &nbsp; 
   <img src="assets/reload_ui.png" alt="App Screenshot" width="300">
   
 </p>
