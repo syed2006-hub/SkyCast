@@ -1,16 +1,35 @@
-# weather_app2
 
-A new Flutter project.
+# 🛰️ [SKYCAST_WEATHER_OS]
+**Status:** `ONLINE` ✅  
+[cite_start]**Version:** `1.0.0_MVP` [cite: 10]
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 📟 SYSTEM OVERVIEW
+[cite_start]**SkyCast** is a high-performance forecasting utility that bridges the gap between **OpenWeather API** [cite: 10] and the end-user. [cite_start]By utilizing **location-access processing** [cite: 10][cite_start], it delivers real-time climate telemetry with zero manual configuration[cite: 10].
 
-A few resources to get you started if this is your first Flutter project:
+### ⚡ MODULES & PROTOCOLS
+* **PROTOCOL_01: SPATIAL_AWARENESS**
+  - [cite_start]Automated location detection via Flutter services[cite: 10].
+* **PROTOCOL_02: ANALYTIC_VISUALIZATION**
+  - [cite_start]Graph-based info displays for temperature and trend analysis[cite: 10].
+* **PROTOCOL_03: TEMPORAL_FORECASTING**
+  - [cite_start]7-day predictive forecasting cycles[cite: 10].
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🖥️ ASSET VISUALIZATION
+<p align="center">
+  <img src="https://res.cloudinary.com/dzg4kohus/image/upload/v1768329791/3_bexmsl.png" width="700" style="border: 2px solid #00FFFF;" />
+</p>
+
+---
+
+### 🏗️ INFRASTRUCTURE
+```bash
+> [cite_start]FRAMEWORK: FLUTTER [cite: 10]
+> [cite_start]API_SOURCE: OPEN_WEATHER [cite: 10]
+> [cite_start]SERVICE: GEOSPATIAL_API [cite: 10]
+> [cite_start]UI_LOGIC: REACTIVE_GRAPHS [cite: 10]
+
+---
